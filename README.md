@@ -4,4 +4,6 @@
 * Task 2
   * Task 2-1
   * Task 2-2
-  * ![Uploading doom_8.png…]()
+![doom_8](https://github.com/MakomaLS/Makoma95/assets/146060999/33a3fbb7-8ce3-4ce8-b441-6455800b65c2)
+
+  
