@@ -10,11 +10,11 @@
 
 1. Make shopping list
 2. Go to shop
-  1. Drift trolly
-  2. Get items
+  i. Drift trolly
+  ii. Get items
 3. Go to teller, pay for items
-  1. Forgot wallet
-  2. Jail
+  i. Forgot wallet
+  ii. Jail
 
 # END
 # Hello 
