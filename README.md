@@ -1,5 +1,6 @@
 ## Makoma95
 [NexPCB](https://nexpcb.com)
+![]https://gitlab.com/picbed/bed/uploads/75985eac80cb11269120d0283ce6a8a5/logo.png
 # Hello World, First Project. YAY!
 * Task 1
 * Task 2
@@ -10,12 +11,13 @@
 
 1. Make shopping list
 2. Go to shop
-  i. Drift trolly
-  ii. Get items
+    1. Drift trolly
+    2. Get items
 3. Go to teller, pay for items
-  i. Forgot wallet
-  ii. Jail
-
+    1. Forgot wallet
+        - Bad
+    2. Jail
+        - VERY BAD
 # END
 # Hello 
 
